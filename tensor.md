@@ -1,3 +1,4 @@
+```py
 import numpy as np
 import torch
 import torch.nn as nn
@@ -188,3 +189,4 @@ def demonstrate_tensor_qr():
 
 if __name__ == "__main__":
     original, compressed, Q, R = demonstrate_tensor_qr()
+```
