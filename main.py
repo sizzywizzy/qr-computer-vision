@@ -1,4 +1,4 @@
-```python
+
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -202,4 +202,3 @@ def generate_calibration_data(n_points=20, noise_level=0.5):
     """
     # Ground truth camera parameters
     fx, fy = 1000.0, 1000
-```
